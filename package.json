@@ -37,6 +37,7 @@
     "systemjs": "0.19.40",
     "core-js": "^2.4.1",
     "rxjs": "5.0.1",
+    "vtk.js": "^3.0.0",
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
@@ -53,6 +54,7 @@
     "karma-cli": "^1.0.1",
     "karma-jasmine": "^1.0.2",
     "karma-jasmine-html-reporter": "^0.2.2",
+    "kw-web-suite": "^3.1.1",
     "protractor": "~4.0.14",
     "rimraf": "^2.5.4",
 

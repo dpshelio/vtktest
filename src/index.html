@@ -14,12 +14,17 @@
     <script src="node_modules/systemjs/dist/system.src.js"></script>
 
     <script src="systemjs.config.js"></script>
+
+    <script type="text/javascript" src="https://unpkg.com/vtk.js"></script>
+    <!-- <script type="text/javascript" src="/js/vtk.js"></script> -->
+
     <script>
       System.import('main.js').catch(function(err){ console.error(err); });
     </script>
   </head>
 
   <body>
+      <base href="/">
     <my-app>Loading AppComponent content here ...</my-app>
   </body>
 </html>

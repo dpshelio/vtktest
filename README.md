@@ -1,3 +1,7 @@
+# Personalised as in [youtube](https://www.youtube.com/watch?v=-zW1zHqsdyc)
+
+## For firebase look this [other series](https://www.youtube.com/watch?v=m5fHtGtyPgk)
+
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
