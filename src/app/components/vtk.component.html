@@ -1,0 +1,6 @@
+<h1> Hello vtk {{ resolution }} </h1>
+<div class="myvtk" ></div>
+
+<form>
+    <input class='resolution' name="resolution" [(ngModel)]="resolution" type='range' min='4' max='80' value='6' (click)="updateRes()"/> <!-- FIXME Only works if clicking with mouse, not move with keys -->
+</form>
